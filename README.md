@@ -173,9 +173,10 @@ I am a **Computer Science undergraduate** at NMIT, Bangalore *(CGPA: 9.00 / 10)*
 
 <div align="center">
 
-<img src="https://github-profile-trophies.vercel.app/?username=Sanjana0019&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophies.vercel.app/?username=Sanjana0019&theme=flat&column=7&row=1&margin-w=8&margin-h=8&no-bg=true" alt="GitHub Trophies" />
 
 </div>
+
 
 ---
 
